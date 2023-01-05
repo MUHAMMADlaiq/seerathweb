@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+   
+    
+  
+}
+
+/* navbar styling */
+.logo{
+    color: green;
+    font-size: 33px;
+    padding-right:980px;
+    padding-left: 60px;
+
+}
+nav{
+    display: flex;
+    padding : 10px;
+}
+button {
+    background-color: black;
+    color: white;
+    padding: 3px;
+    cursor: pointer;
+    
+
+} 
+button a{
+    text-decoration: none;
+    color: white;
+}
+.light {
+    
+    background-color: white;
+}
+.light a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    background-color: white;
+}
+.logo-light{
+    color: green;
+    font-size: 33px;
+    padding-right:980px;
+    padding-left: 60px;
+ }
+
+
+
+
+/* navbar styling */
+
+/* main styling */
+main{
+    background-color: lightgray;
+    text-align: center;
+
+   
+   
+}
+.lig{
+    color: white;
+    background-color: black;
+    text-align: center;
+
+   
+   
+}
+.tagline{
+    font-size: x-large;
+    padding: 20px 0px 23px 0px;
+
+}
+.tt th, .tt td{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 12px 25px 12px 25px;
+    text-align: center;
+    line-height: 20px;
+
+}
+
+
+
+/* main styling */
+/* footer */
+footer{
+    padding-top: 100px;
+    color: black;
+}
+.ligg{
+    padding-top: 100px;
+    color: white;
+}
+/* footer */
